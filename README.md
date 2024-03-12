@@ -1,6 +1,6 @@
 # Zaiqa Resturant OOP Project
 ## Login System: 
-Seperate Login system for users and administrator. Create segregation of user and administrator code + interface. 
+Seperate Login system for users and administrator. Complete segregation of user and administrator code + interface. 
 
 ## Timer Functionality: 
 The system includes a timer feature to track order processing. It will give an estimated time when ordered and will track when time meets estimated time. Then it will generate the reciept
