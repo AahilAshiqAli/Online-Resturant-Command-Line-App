@@ -8,5 +8,5 @@ The system includes a timer feature to track order processing. It will give an e
 ## Multiple Inheritance: 
 Utilizing OOP principles, the system is designed using multiple inheritance to efficiently manage different menu classes.
 
-# Reciept Generator: 
+## Reciept Generator: 
 Upon customer transactions, the system generates text files containing detail of order. These receipts include information such as itemized orders, total cost.
