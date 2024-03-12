@@ -1639,7 +1639,7 @@ class menu : public Starter , public fastfood , public continental , public paki
 
         char disp_menu(){
             char c;
-            cout<<"\n\n\t\t\t We have answer to your every mood.\n\t\t\t Please type the given alphebat(small case) of the following cuisines"<<endl;
+            cout<<"\n\n\t\t\t We have answer to your every mood.\n\t\t\t Please type the given alphebat(small case) of the following cuisines. To get to cart, press Enter."<<endl;
             cout<<"\nStarter\t\ta\nFast-Food\tb\nEast-Asian\tc\nContinental\td\nPakistani\te\nPizza\t\tf\nSandwiches\tg\nAdd-Ons\t\th\nBeverages\ti\n"<<endl;
             c=getch();
             return c;
